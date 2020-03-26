@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.075" height="28.5" viewBox="0 0 25.075 28.5">
+  <g id="Group_151" data-name="Group 151" transform="translate(-55 -556)">
+    <g id="noun_Scale_2218686" transform="translate(71.091 583.747) rotate(-90)">
+      <path id="Path_276" data-name="Path 276" d="M25.709,0H.367A.366.366,0,0,0,0,.367V8.618a.366.366,0,0,0,.367.367H25.709a.366.366,0,0,0,.367-.367V.367A.366.366,0,0,0,25.709,0Zm-.367,8.251H.733V.733H3.34V2.855a.367.367,0,1,0,.733,0V.733H5.239v4.61a.367.367,0,1,0,.733,0V.733H7.531V2.855a.367.367,0,1,0,.733,0V.733H9.43v4.61a.367.367,0,1,0,.733,0V.733h1.559V2.855a.367.367,0,1,0,.733,0V.733h1.166v4.61a.367.367,0,1,0,.733,0V.733h1.559V2.855a.367.367,0,1,0,.733,0V.733h1.166v4.61a.367.367,0,1,0,.733,0V.733H20.1V2.855a.367.367,0,1,0,.733,0V.733H22v4.61a.367.367,0,1,0,.733,0V.733h2.606Z" transform="translate(0 0)" fill="#6b6b6b"/>
+    </g>
+    <g id="Group_150" data-name="Group 150" transform="translate(55.5 556.5)">
+      <path id="Path_275" data-name="Path 275" stroke="#6b6b6b" d="M10.694,25.555h1.528V19.444A6.111,6.111,0,1,0,0,19.444v6.111H1.528v6.111h9.167ZM6.111,13.333A4.583,4.583,0,1,0,1.528,8.75,4.583,4.583,0,0,0,6.111,13.333Z" fill="none" transform="translate(0 -4.167)" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>

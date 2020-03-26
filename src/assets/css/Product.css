@@ -1,0 +1,26 @@
+.slick-prev{
+    left: 0px;
+    z-index: 200;
+}
+.slick-next{
+    right: 0px;
+    z-index: 200;
+}
+.arrowNext::after{
+    content: '';
+    background-color: red;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 50%;
+    z-index: 3000;
+}
+.arrowPrev::after{
+    content: '';
+    background-color: blue;
+    width: 15px;
+    height: 15px;
+    position: absolute;
+    top: 50%;
+    z-index: 3000;
+}

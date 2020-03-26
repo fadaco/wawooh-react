@@ -1,0 +1,206 @@
+[
+    {
+      "Abia": [
+        "Aba",
+        "Umuahia"
+      ]
+    },
+    {
+      "Adamawa": [
+        "Yola"
+      ]
+    },
+    {
+      "Akwa Ibom": [
+        "Eket",
+        "Uyo"
+      ]
+    },
+    {
+      "Anambra": [
+        "Awka",
+        "Nnewi",
+        "Onitsha"
+      ]
+    },
+    {
+      "Bauchi": [
+        "Bauchi"
+      ]
+    },
+    {
+      "Bayelsa": [
+        "Yenagoa"
+      ]
+    },
+    {
+      "Benue": [
+        "Makurdi"
+      ]
+    },
+    {
+      "Borno": [
+        "Maiduguri"
+      ]
+    },
+    {
+      "Cross River": [
+        "Calabar"
+      ]
+    },
+    {
+      "Delta": [
+        "Asaba",
+        "Sapele",
+        "Warri"
+      ]
+    },
+    {
+      "Ebonyi": [
+        "Abakaliki"
+      ]
+    },
+    {
+      "Edo": [
+        "Auchi",
+        "Benin",
+        "Ekpoma"
+      ]
+    },
+    {
+      "Ekiti": [
+        "Ado-Ekiti"
+      ]
+    },
+    {
+      "Enugu": [
+        "Abakaliki"
+      ]
+    },
+    {
+      "Gombe": [
+        ""
+      ]
+    },
+    {
+      "Imo": [
+        "Owerri"
+      ]
+    },
+    {
+      "Jigawa": [
+        ""
+      ]
+    },
+    {
+      "Kaduna": [
+        "Kaduna",
+        "Zaria"
+      ]
+    },
+    {
+      "Kano": [
+        "Kano"
+      ]
+    },
+    {
+      "Kastina": [
+        "Kastina"
+      ]
+    },
+    {
+      "Kebbi": [
+        "Birnin Kebbi"
+      ]
+    },
+    {
+      "Kogi": [
+        "Lokoja"
+      ]
+    },
+    {
+      "Kwara": [
+        "Ilorin"
+      ]
+    },
+    {
+      "Lagos": [
+        "Apapa",
+        "Broad Street",
+        "High Volume Apapa",
+        "Ikoyi",
+        "Lagos Gateway",
+        "Lagos Hub",
+        "MM Airport",
+        "TPC - Lagos",
+        "Victoria Island"
+      ]
+    },
+    {
+      "Nassarawa": [
+        "Lafia"
+      ]
+    },
+    {
+      "Niger": [
+        "Minna"
+      ]
+    },
+    {
+      "Ogun": [
+        "Abeokuta"
+      ]
+    },
+    {
+      "Ondo": [
+        "Akure"
+      ]
+    },
+    {
+      "Osun": [
+        "Ife",
+        "Ilesa",
+        "Osogbo"
+      ]
+    },
+    {
+      "Oyo": [
+        "Ibadan"
+      ]
+    },
+    {
+      "Plateau": [
+        "Jos"
+      ]
+    },
+    {
+      "Rivers": [
+        "Bonny"
+      ]
+    },
+    {
+      "Sokoto": [
+        "Sokoto"
+      ]
+    },
+    {
+      "Taraba": [
+        "Jalingo"
+      ]
+    },
+    {
+      "Yobe": [
+        "Damaturu"
+      ]
+    },
+    {
+      "Zamfara": [
+        "Gusau"
+      ]
+    },
+    {
+      "FCT": [
+        "Gwagwalada"
+      ]
+    }
+  ]
